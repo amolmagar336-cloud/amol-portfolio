@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This project is a modern, responsive, 
 ## 🌐 Live Demo
 
 Check out the live website here:  
-👉 [https://sagardubey10.github.io/My_Portfolio/](https://sagardubey10.github.io/My_Portfolio/)
+👉 https://amolmagar336-cloud.github.io/amol-portfolio/
 
 ## 📫 Contact
 
